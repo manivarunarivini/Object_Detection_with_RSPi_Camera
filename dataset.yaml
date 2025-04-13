@@ -1,0 +1,17 @@
+train: /content/drive/MyDrive/processed_dataset/train/images
+val: /content/drive/MyDrive/processed_dataset/val/images
+test: /content/drive/MyDrive/processed_dataset/test/images
+
+
+nc: 10
+
+names: ["Ivy", "Fern", "Ginkgo", "Kummerowia striata", "Laciniata", "Macrolobium acaciifolium", "Micranthes odontoloma", "Murraya", "Robinia pseudoacacia", "Selaginella davidi franch"]
+         
+          
+         
+         
+         
+         
+         
+         
+
